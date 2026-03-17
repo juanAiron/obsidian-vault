@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Tech Stack.md",
+                "file": "SSH Keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech Stack"
+              "title": "SSH Keys"
             }
           }
         ]
@@ -201,11 +201,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "cebe5ee99bd97c91",
+  "active": "2863af8ae4a93e21",
   "lastOpenFiles": [
+    "Tech/Tech Stack.md",
+    "SSH Keys.md",
     "OS Specific",
     "OS Specific/Linux Commands.md",
-    "Tech/Tech Stack.md",
     "Firefox Developer Edition.md",
     "Tech/Obsidian.md",
     "2026-03-16.md",
