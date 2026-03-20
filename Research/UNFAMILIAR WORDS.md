@@ -2,19 +2,18 @@
 
 **Warranting** - *means justifying, deserving, or making something necessary*
 
-Inferred - means concluded, deduced, owmr figured out based on evidence or reasoning rather than being directly stated.
+**Inferred** - *means concluded, deduced, or figured out based on evidence or reasoning rather than being directly stated.*
 
-Reprimand - means a formal scolding, correction, or rebuke for wrongdoing.
+**Reprimand** - *means a formal scolding, correction, or rebuke for wrongdoing.*
 
-Refute - means to prove something is false or incorrect by using evidence wwmmor reasoning.
+**Refute** - *means to prove something is false or incorrect by using evidence or reasoning.*
 
-Turbulent - means chaotic, violent, or unstable, often describing strong emotions, situations, or mo218redeemed
-vements.
-Human anger is unstable, odsut of control, and fueled by emotion.
+**Turbulent** - *means chaotic, violent, or unstable, often describing strong emotions, situations, or movements.*
+	*Human anger is unstable, out of control, and fuelled by emotion.*
 
-Inviolable - means cannot be broken, changed, or violated; secure and sacred.
+**Inviolable** - *means cannot be broken, changed, or violated; secure and sacred.*
 
-God’s greatness, authority, and holiness cannot be challenged or diminished.
+*God’s greatness, authority, and holiness cannot be challenged or diminished.*
 
 Petulance - means God’s wrath is not immature or emotional, like a human getting upset over small things. Instead, His wrath is holy, just, and necessary because sin offends His perfect justice.
 

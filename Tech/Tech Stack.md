@@ -16,7 +16,7 @@
 ### Code Editors & Documentation
 1. **VS Code** - *sudo apt install  code --classic*
 2.  **[[Obsidian]]** - *sudo snap install obsidian --classic*
-3. **Draw.io** - *sudo snap install drawio*
+3. **[[Draw.io]]** - *sudo snap install drawio*
 
 ### Cloud & Infrastructure
 
