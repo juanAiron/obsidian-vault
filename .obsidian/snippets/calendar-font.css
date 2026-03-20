@@ -1,0 +1,19 @@
+/* Month & Year Header */
+.calendar .title {
+  font-size: 20px;
+}
+
+/* Day Name Headers (Sun, Mon, Tue...) */
+.calendar th {
+  font-size: 14px;
+}
+
+/* Day Number inside each cell */
+.calendar td .day {
+  font-size: 18px;
+}
+
+/* The dot indicator under days that have notes */
+.calendar td .dot {
+  font-size: 10px;
+}

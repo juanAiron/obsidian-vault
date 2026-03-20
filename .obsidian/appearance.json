@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "",
+  "accentColor": "#377270",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "calendar-font"
+  ]
+}
