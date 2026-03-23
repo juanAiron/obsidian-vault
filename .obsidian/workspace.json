@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Tech Stack.md",
+                "file": "SAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech Stack"
+              "title": "SAM"
             }
           }
         ]
@@ -88,6 +88,7 @@
       {
         "id": "2ba9d84df0a89c05",
         "type": "tabs",
+        "dimension": 37.404580152671755,
         "children": [
           {
             "id": "42c6944a66278f76",
@@ -182,6 +183,7 @@
       {
         "id": "a5393c64d594d3e0",
         "type": "tabs",
+        "dimension": 62.59541984732825,
         "children": [
           {
             "id": "073d90ac098bc804",
@@ -211,21 +213,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "073d90ac098bc804",
+  "active": "7d5877dbff3c6190",
   "lastOpenFiles": [
-    "Draw.io.md",
-    "Tech/Tech Stack.md",
-    "Tech/SSH Keys.md",
     "Book View.base",
+    "SAM.md",
+    "Tech/DOS Commands.md",
     "Books/The Gospel for Real Life - Jerry Bridges.md",
+    "Church Family/SPARK.md",
+    "Tech/SSH Keys.md",
+    "Books/Saved Without A Doubt - John MacArthur Jr.md",
+    "Church Family/Libon.md",
+    "Church Family/GLCC Tech To-Do List.md",
+    "Tech/Tech Stack.md",
+    "Draw.io.md",
     "Books/The pilgrim's progress - John Bunyan.md",
     "Research/UNFAMILIAR WORDS.md",
-    "Tech/DOS Commands.md",
     "Quiet Time/Bible Verse Readings.md",
-    "Church Family/GLCC Tech To-Do List.md",
     "Quiet Time",
     "Church Family",
-    "Books/Saved Without A Doubt - John MacArthur Jr.md",
     "Untitled.base",
     "Untitled.canvas",
     "Books",
