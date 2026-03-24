@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.inFolder("Quiet Time/Sermons")
+    order:
+      - file.name
+    image: note.coverUrl
+    imageAspectRatio: 1.5
+    imageFit: contain
+    cardSize: 150
+  - type: table
+    name: Table
+  - type: cards
+    name: View 2

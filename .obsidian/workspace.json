@@ -8,17 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d5877dbff3c6190",
+            "id": "8e834cd6f02580d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "SAM.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "View 2"
               },
-              "icon": "lucide-file",
-              "title": "SAM"
+              "icon": "lucide-layout-grid",
+              "title": "Untitled"
             }
           }
         ]
@@ -88,7 +87,6 @@
       {
         "id": "2ba9d84df0a89c05",
         "type": "tabs",
-        "dimension": 37.404580152671755,
         "children": [
           {
             "id": "42c6944a66278f76",
@@ -183,7 +181,6 @@
       {
         "id": "a5393c64d594d3e0",
         "type": "tabs",
-        "dimension": 62.59541984732825,
         "children": [
           {
             "id": "073d90ac098bc804",
@@ -210,28 +207,39 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "rss-dashboard:RSS dashboard": false,
+      "media-extended:Open external media": false
     }
   },
-  "active": "7d5877dbff3c6190",
+  "active": "8e834cd6f02580d0",
   "lastOpenFiles": [
-    "Book View.base",
-    "SAM.md",
-    "Tech/DOS Commands.md",
+    "Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
+    "Untitled.base",
     "Books/The Gospel for Real Life - Jerry Bridges.md",
-    "Church Family/SPARK.md",
-    "Tech/SSH Keys.md",
+    "Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur",
+    "Untitled 2.md",
     "Books/Saved Without A Doubt - John MacArthur Jr.md",
-    "Church Family/Libon.md",
+    "Sermons/Untitled.base",
+    "Untitled 1.md",
+    "Untitled",
     "Church Family/GLCC Tech To-Do List.md",
-    "Tech/Tech Stack.md",
-    "Draw.io.md",
+    "SAM.md",
+    "Untitled.md",
     "Books/The pilgrim's progress - John Bunyan.md",
-    "Research/UNFAMILIAR WORDS.md",
+    "Quiet Time/Sermons",
+    "Book View.base",
+    "Church Family/Libon.md",
+    "Church Family/SPARK.md",
     "Quiet Time/Bible Verse Readings.md",
+    "Tech/Draw.io.md",
+    "Libon Line UP.md",
+    "Tech/Tech Stack.md",
+    "Tech/SSH Keys.md",
+    "Research/UNFAMILIAR WORDS.md",
+    "Tech/DOS Commands.md",
     "Quiet Time",
     "Church Family",
-    "Untitled.base",
     "Untitled.canvas",
     "Books",
     "The Gospel According to Jesus - Stephen Mitchell.md",
@@ -241,12 +249,6 @@
     "OS Specific/Linux Commands.md",
     "Research/Predictive Model.md",
     "OS Specific",
-    "Firefox Developer Edition.md",
-    "2026-03-16.md",
-    "().md",
-    "Research",
-    "Personal",
-    "Templates",
-    "Church Family"
+    "Firefox Developer Edition.md"
   ]
 }
