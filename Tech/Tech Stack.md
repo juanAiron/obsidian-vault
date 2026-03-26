@@ -37,6 +37,22 @@
 
 ### System Admin
 
-### Web Development
+
+
+### Web Development 
+
+**sudo lsof -i :80** *(check who uses port 80)*
+
 1. **NGINX** - *sudo apt install nginx*
 2. **Apache2** - *sudo apt install apache2*
+3. **PHP** - *sudo apt install php*
+	1. sudo apt install php-mysql
+	2. sudo apt install php-curl
+	3. sudo apt install php-gd
+	4. sudo apt install php-mbstring
+	5. sudo apt install php-xml
+	6. sudo apt install php-xmlrpc
+	7. sudo apt install php-soap
+	8. sudo apt install php-intl
+	9. sudo apt install php-zip
+	10. sudo apt install php-imagick
