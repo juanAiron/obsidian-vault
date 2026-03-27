@@ -38,7 +38,6 @@
 ### System Admin
 
 
-
 ### Web Development 
 
 **sudo lsof -i :80** *(check who uses port 80)*
@@ -56,3 +55,8 @@
 	8. sudo apt install php-intl
 	9. sudo apt install php-zip
 	10. sudo apt install php-imagick
+
+
+### Audio Mixing
+1. **Demucs** - sudo apt-get install ffmpeg
+			sudo apt-get install soundstretch

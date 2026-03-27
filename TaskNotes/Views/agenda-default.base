@@ -2,15 +2,15 @@
 
 filters:
   and:
-    - file.hasTag("task")
+    - file.hasTag("Task")
 
 formulas:
-  priorityWeight: 'if(priority=="none",0,if(priority=="low",1,if(priority=="normal",2,if(priority=="high",3,999))))'
+  priorityWeight: 'if(priority=="low",0,if(priority=="normal",1,if(priority=="high",2,if(priority=="None",3,999))))'
   daysUntilDue: 'if(due, ((number(date(due)) - number(today())) / 86400000).floor(), null)'
   daysUntilScheduled: 'if(scheduled, ((number(date(scheduled)) - number(today())) / 86400000).floor(), null)'
   daysSinceCreated: '((number(now()) - number(file.ctime)) / 86400000).floor()'
   daysSinceModified: '((number(now()) - number(file.mtime)) / 86400000).floor()'
-  isOverdue: 'due && date(due) < today() && status != "done"'
+  isOverdue: 'due && date(due) < today() && status != "to-do" && status != "in-progress" && status != "done" && status != "archived"'
   isDueToday: 'due && date(due).date() == today()'
   isDueThisWeek: 'due && date(due) >= today() && date(due) <= today() + "7d"'
   isScheduledToday: 'scheduled && date(scheduled).date() == today()'
@@ -29,7 +29,7 @@ formulas:
   ageCategory: 'if(((number(now()) - number(file.ctime)) / 86400000) < 1, "Today", if(((number(now()) - number(file.ctime)) / 86400000) < 7, "This week", if(((number(now()) - number(file.ctime)) / 86400000) < 30, "This month", "Older")))'
   createdMonth: 'file.ctime.format("YYYY-MM")'
   modifiedMonth: 'file.mtime.format("YYYY-MM")'
-  priorityCategory: 'if(priority=="none","None",if(priority=="low","Low",if(priority=="normal","Normal",if(priority=="high","High","No priority"))))'
+  priorityCategory: 'if(priority=="low","Low",if(priority=="normal","Normal",if(priority=="high","High",if(priority=="None","none","No priority"))))'
   projectCount: 'if(!projects || list(projects).length == 0, "No projects", if(list(projects).length == 1, "Single project", "Multiple projects"))'
   contextCount: 'if(!contexts || list(contexts).length == 0, "No contexts", if(list(contexts).length == 1, "Single context", "Multiple contexts"))'
   trackingStatus: 'if(!timeEstimate || timeEstimate == 0 || timeEstimate == null, "No estimate", if(!timeEntries || list(timeEntries).length == 0, "Not started", if(formula.efficiencyRatio < 100, "Under estimate", "Over estimate")))'

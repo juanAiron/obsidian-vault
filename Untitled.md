@@ -1,6 +1,0 @@
-Barber & Salon
-Fabee
-
-Colored
-
-

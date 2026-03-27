@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.hasTag("task")
 formulas:
   priorityWeight: if(priority=="none",0,if(priority=="low",1,if(priority=="normal",2,if(priority=="high",3,999))))
   daysUntilDue: if(due, ((number(date(due)) - number(today())) / 86400000).floor(), null)
@@ -39,15 +42,8 @@ formulas:
   timeTrackedFormatted: if(timeEntries, if(list(timeEntries).filter(value.endTime).map((number(date(value.endTime)) - number(date(value.startTime))) / 60000).reduce(acc + value, 0) >= 60, (list(timeEntries).filter(value.endTime).map((number(date(value.endTime)) - number(date(value.startTime))) / 60000).reduce(acc + value, 0) / 60).floor() + "h " + (list(timeEntries).filter(value.endTime).map((number(date(value.endTime)) - number(date(value.startTime))) / 60000).reduce(acc + value, 0) % 60).round() + "m", list(timeEntries).filter(value.endTime).map((number(date(value.endTime)) - number(date(value.startTime))) / 60000).reduce(acc + value, 0).round() + "m"), "0m")
   dueDateDisplay: if(!due, "", if(date(due).date() == today(), "Today", if(date(due).date() == today() + "1d", "Tomorrow", if(date(due).date() == today() - "1d", "Yesterday", if(date(due) < today(), formula.daysUntilDue * -1 + "d ago", if(date(due) <= today() + "7d", date(due).format("ddd"), date(due).format("MMM D")))))))
 views:
-  - type: tasknotesKanban
-    name: Subtasks
-    filters:
-      and:
-        - file.hasTag("task")
-        - note.projects.contains(this.file.asLink())
-    groupBy:
-      property: status
-      direction: ASC
+  - type: tasknotesCalendar
+    name: Agenda
     order:
       - status
       - priority
@@ -61,62 +57,9 @@ views:
       - recurrence
       - complete_instances
       - file.tasks
-  - type: tasknotesTaskList
-    name: Projects
-    filters:
-      and:
-        - list(this.projects).contains(file.asLink())
-    order:
-      - status
-      - priority
-      - due
-      - scheduled
-      - projects
-      - contexts
-      - file.tags
-      - blockedBy
-      - file.name
-      - recurrence
-      - complete_instances
-      - file.tasks
-  - type: tasknotesTaskList
-    name: Blocked By
-    filters:
-      and:
-        - file.hasTag("task")
-        - list(this.note.blockedBy).map(value.uid).contains(file.asLink())
-    order:
-      - status
-      - priority
-      - due
-      - scheduled
-      - projects
-      - contexts
-      - file.tags
-      - blockedBy
-      - file.name
-      - recurrence
-      - complete_instances
-      - file.tasks
-  - type: tasknotesKanban
-    name: Blocking
-    filters:
-      and:
-        - file.hasTag("task")
-        - list(note.blockedBy).map(value.uid).contains(this.file.asLink())
-    groupBy:
-      property: status
-      direction: ASC
-    order:
-      - status
-      - priority
-      - due
-      - scheduled
-      - projects
-      - contexts
-      - file.tags
-      - blockedBy
-      - file.name
-      - recurrence
-      - complete_instances
-      - file.tasks
+    options:
+      showPropertyBasedEvents: false
+    calendarView: listWeek
+    startDateProperty: file.ctime
+    listDayCount: 7
+    titleProperty: file.basename
