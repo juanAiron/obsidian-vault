@@ -7,7 +7,7 @@ formulas:
   daysUntilScheduled: if(scheduled, ((number(date(scheduled)) - number(today())) / 86400000).floor(), null)
   daysSinceCreated: ((number(now()) - number(file.ctime)) / 86400000).floor()
   daysSinceModified: ((number(now()) - number(file.mtime)) / 86400000).floor()
-  isOverdue: due && date(due) < today() && status != "done" && status != "archived"
+  isOverdue: due && date(due) < today() && status != "to-do" && status != "in-progress" && status != "done" && status != "archived"
   isDueToday: due && date(due).date() == today()
   isDueThisWeek: due && date(due) >= today() && date(due) <= today() + "7d"
   isScheduledToday: scheduled && date(scheduled).date() == today()

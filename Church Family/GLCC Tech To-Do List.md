@@ -1,4 +1,4 @@
-1. Send pyesa with lyrics of sunday line up to the gc
+		1. Send pyesa with lyrics of sunday line up to the gc
     - If a certain pyesa is not yet sent in the gc, check gdrive
       https://drive.google.com/drive/folders/1iIV3kvTQA5H0SbO100f4nf09TGw3Uc7a
 
@@ -21,3 +21,9 @@
     - I usually sipra it if I can, if not I usually ask kuya Josh's help
 
 7. Check Youtube Channel
+   
+   
+   PPT Manager
+	1. Libre Office
+	2. Composer
+	3. PDFtoppm

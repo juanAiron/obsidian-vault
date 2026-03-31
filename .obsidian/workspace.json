@@ -11,14 +11,13 @@
             "id": "7664dbdf0cff08e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Tasks/Church Family/S.P.A.R.K. DVBS Workplan.md",
-                "mode": "source",
-                "source": false
+                "file": "TaskNotes/Views/kanban-default.base",
+                "viewName": "Kanban Board"
               },
-              "icon": "lucide-file",
-              "title": "S.P.A.R.K. DVBS Workplan"
+              "icon": "tasknotes-simple",
+              "title": "kanban-default"
             }
           }
         ]
@@ -33,7 +32,7 @@
       {
         "id": "c960ffc592db46b0",
         "type": "tabs",
-        "dimension": 44.904458598726116,
+        "dimension": 61.071789686552066,
         "children": [
           {
             "id": "1a2a7d4f781755ea",
@@ -94,7 +93,7 @@
       {
         "id": "5fcb558c9d63e1d9",
         "type": "tabs",
-        "dimension": 55.095541401273884,
+        "dimension": 38.92821031344793,
         "children": [
           {
             "id": "7f42696e441beedf",
@@ -119,12 +118,11 @@
               "title": "Progress"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 360.5
   },
   "right": {
     "id": "7cf190c5029ef2b2",
@@ -244,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,41 +267,41 @@
   },
   "active": "7664dbdf0cff08e2",
   "lastOpenFiles": [
+    "Church Family/Libon.md",
+    "TaskNotes/Views/Progress.base",
+    "Church Family/Libon Line UP.md",
+    "Church Family/GLCC Tech To-Do List.md",
+    "Church Family/SPARK.md",
+    "Personal/Shepherd Conference/Shepherds Conference 2024 Music.md",
+    "2026-03-28.md",
+    "Untitled 2.md",
+    "Personal/Shepherd Conference",
+    "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
+    "Personal/Quiet Time/Untitled",
+    "Tech/Tech Stack.md",
+    "Tech/SSH Keys.md",
+    "Tech/Draw.io.md",
+    "Tech/DOS Commands.md",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/Calendar.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "Books/The Gospel for Real Life - Jerry Bridges.md",
     "Tasks/Church Family/S.P.A.R.K. DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan & Curriculum.md",
-    "Tasks/Church Family",
     "Tasks/DVBS Curriculum.md",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/Progress.base",
-    "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/calendar-default.base",
-    "Church Family/Libon.md",
     "Tasks/Guy.md",
-    "TaskNotes/Archive",
-    "2026-03-28.md",
-    "Church Family/Libon Line UP.md",
     "Research/UNFAMILIAR WORDS.md",
     "Research/IT PROJECT 1.md",
-    "Church Family/SPARK.md",
-    "Church Family/GLCC Tech To-Do List.md",
-    "Untitled 2.md",
     "Untitled.md",
     "Untitled 1.md",
     "SAM.md",
-    "Tech/Tech Stack.md",
-    "Tech/SSH Keys.md",
-    "Tech/DOS Commands.md",
-    "Tech/Draw.io.md",
-    "Books/The Gospel for Real Life - Jerry Bridges.md",
-    "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
     "Books/Saved Without A Doubt - John MacArthur Jr.md",
     "Books/The pilgrim's progress - John Bunyan.md",
-    "Quiet Time/Bible Verse Readings.md",
     "Untitled.canvas"
   ]
 }
