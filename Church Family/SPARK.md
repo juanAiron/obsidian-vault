@@ -2,9 +2,14 @@ Lesson
 
 Tuklasin \
 Missions
-GOG
 PPT
 Attendance
 
+Regular Activites
 
-VOICE 
+Special Activities
+	Missions
+	 Fun Saturday
+	 DVBS
+	Family Day
+		

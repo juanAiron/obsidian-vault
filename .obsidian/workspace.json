@@ -11,13 +11,14 @@
             "id": "7664dbdf0cff08e2",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/kanban-default.base",
-                "viewName": "Kanban Board"
+                "file": "Personal/Lyrics/Jesus I My Cross Have Taken.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "kanban-default"
+              "icon": "lucide-file",
+              "title": "Jesus I My Cross Have Taken"
             }
           }
         ]
@@ -267,11 +268,15 @@
   },
   "active": "7664dbdf0cff08e2",
   "lastOpenFiles": [
+    "Personal/Lyrics",
+    "Church Family/GLCC Tech To-Do List.md",
+    "Personal/Lyrics/Jesus I My Cross Have Taken.md",
+    "Church Family/SPARK.md",
     "Church Family/Libon.md",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/Progress.base",
     "Church Family/Libon Line UP.md",
-    "Church Family/GLCC Tech To-Do List.md",
-    "Church Family/SPARK.md",
     "Personal/Shepherd Conference/Shepherds Conference 2024 Music.md",
     "2026-03-28.md",
     "Untitled 2.md",
@@ -285,9 +290,7 @@
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/Calendar.base",
-    "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/agenda-default.base",
     "Books/The Gospel for Real Life - Jerry Bridges.md",
     "Tasks/Church Family/S.P.A.R.K. DVBS Workplan.md",
@@ -301,7 +304,6 @@
     "Untitled 1.md",
     "SAM.md",
     "Books/Saved Without A Doubt - John MacArthur Jr.md",
-    "Books/The pilgrim's progress - John Bunyan.md",
     "Untitled.canvas"
   ]
 }
