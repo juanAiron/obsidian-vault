@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Lyrics/Jesus I My Cross Have Taken.md",
+                "file": "Church Family/Libon Line UP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jesus I My Cross Have Taken"
+              "title": "Libon Line UP"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "c960ffc592db46b0",
         "type": "tabs",
-        "dimension": 61.071789686552066,
+        "dimension": 50.323415265200516,
         "children": [
           {
             "id": "1a2a7d4f781755ea",
@@ -94,7 +94,7 @@
       {
         "id": "5fcb558c9d63e1d9",
         "type": "tabs",
-        "dimension": 38.92821031344793,
+        "dimension": 49.676584734799484,
         "children": [
           {
             "id": "7f42696e441beedf",
@@ -268,20 +268,22 @@
   },
   "active": "7664dbdf0cff08e2",
   "lastOpenFiles": [
-    "Personal/Lyrics",
-    "Church Family/GLCC Tech To-Do List.md",
-    "Personal/Lyrics/Jesus I My Cross Have Taken.md",
     "Church Family/SPARK.md",
-    "Church Family/Libon.md",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/Progress.base",
     "Church Family/Libon Line UP.md",
     "Personal/Shepherd Conference/Shepherds Conference 2024 Music.md",
+    "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
+    "Personal/Lyrics/Jesus I My Cross Have Taken.md",
+    "Church Family/Libon.md",
+    "Church Family/GLCC Tech To-Do List.md",
+    "Books/The pilgrim's progress - John Bunyan.md",
+    "Books/The Gospel for Real Life - Jerry Bridges.md",
+    "TaskNotes/Views/Progress.base",
+    "Personal/Lyrics",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
     "2026-03-28.md",
     "Untitled 2.md",
     "Personal/Shepherd Conference",
-    "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
     "Personal/Quiet Time/Untitled",
     "Tech/Tech Stack.md",
     "Tech/SSH Keys.md",
@@ -291,8 +293,6 @@
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/Calendar.base",
-    "TaskNotes/Views/agenda-default.base",
-    "Books/The Gospel for Real Life - Jerry Bridges.md",
     "Tasks/Church Family/S.P.A.R.K. DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan & Curriculum.md",
@@ -303,7 +303,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "SAM.md",
-    "Books/Saved Without A Doubt - John MacArthur Jr.md",
     "Untitled.canvas"
   ]
 }
