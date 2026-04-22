@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Church Family/Libon Line UP.md",
+                "file": "Tech/VS Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Libon Line UP"
+              "title": "VS Code"
             }
           }
         ]
@@ -268,15 +268,23 @@
   },
   "active": "7664dbdf0cff08e2",
   "lastOpenFiles": [
-    "Church Family/SPARK.md",
-    "Church Family/Libon Line UP.md",
-    "Personal/Shepherd Conference/Shepherds Conference 2024 Music.md",
-    "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
+    "Tech/Tech Stack.md",
+    "Tech/VS Code.md",
+    "Tech/SSH Keys.md",
+    "Tech/Draw.io.md",
+    "Tech/DOS Commands.md",
+    "Untitled.md",
+    "Book List.base",
+    "SAM.md",
     "Personal/Lyrics/Jesus I My Cross Have Taken.md",
-    "Church Family/Libon.md",
-    "Church Family/GLCC Tech To-Do List.md",
     "Books/The pilgrim's progress - John Bunyan.md",
     "Books/The Gospel for Real Life - Jerry Bridges.md",
+    "Church Family/Libon Line UP.md",
+    "Church Family/SPARK.md",
+    "Personal/Shepherd Conference/Shepherds Conference 2024 Music.md",
+    "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
+    "Church Family/Libon.md",
+    "Church Family/GLCC Tech To-Do List.md",
     "TaskNotes/Views/Progress.base",
     "Personal/Lyrics",
     "TaskNotes/Views/mini-calendar-default.base",
@@ -285,14 +293,9 @@
     "Untitled 2.md",
     "Personal/Shepherd Conference",
     "Personal/Quiet Time/Untitled",
-    "Tech/Tech Stack.md",
-    "Tech/SSH Keys.md",
-    "Tech/Draw.io.md",
-    "Tech/DOS Commands.md",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/Calendar.base",
     "Tasks/Church Family/S.P.A.R.K. DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan & Curriculum.md",
@@ -300,9 +303,6 @@
     "Tasks/Guy.md",
     "Research/UNFAMILIAR WORDS.md",
     "Research/IT PROJECT 1.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "SAM.md",
     "Untitled.canvas"
   ]
 }
