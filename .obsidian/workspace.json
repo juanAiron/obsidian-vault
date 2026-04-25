@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/VS Code.md",
+                "file": "SAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VS Code"
+              "title": "SAM"
+            }
+          },
+          {
+            "id": "f4e4ce57c1711630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/IT PROJECT 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IT PROJECT 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 271.5
   },
   "right": {
     "id": "7cf190c5029ef2b2",
@@ -243,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,16 +281,22 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "7664dbdf0cff08e2",
+  "active": "f4e4ce57c1711630",
   "lastOpenFiles": [
-    "Tech/Tech Stack.md",
+    "Personal/Quiet Time/Untitled.md",
+    "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
+    "Church Family/GLCC Tech To-Do List.md",
+    "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
+    "Projects/Undergrad/Untitled",
+    "Projects/Undergrad",
+    "Projects",
+    "SAM.md",
     "Tech/VS Code.md",
+    "Tech/Tech Stack.md",
     "Tech/SSH Keys.md",
     "Tech/Draw.io.md",
     "Tech/DOS Commands.md",
-    "Untitled.md",
     "Book List.base",
-    "SAM.md",
     "Personal/Lyrics/Jesus I My Cross Have Taken.md",
     "Books/The pilgrim's progress - John Bunyan.md",
     "Books/The Gospel for Real Life - Jerry Bridges.md",
@@ -284,7 +305,6 @@
     "Personal/Shepherd Conference/Shepherds Conference 2024 Music.md",
     "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
     "Church Family/Libon.md",
-    "Church Family/GLCC Tech To-Do List.md",
     "TaskNotes/Views/Progress.base",
     "Personal/Lyrics",
     "TaskNotes/Views/mini-calendar-default.base",
@@ -293,16 +313,12 @@
     "Untitled 2.md",
     "Personal/Shepherd Conference",
     "Personal/Quiet Time/Untitled",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/tasks-default.base",
     "Tasks/Church Family/S.P.A.R.K. DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan & Curriculum.md",
     "Tasks/DVBS Curriculum.md",
     "Tasks/Guy.md",
     "Research/UNFAMILIAR WORDS.md",
-    "Research/IT PROJECT 1.md",
     "Untitled.canvas"
   ]
 }
