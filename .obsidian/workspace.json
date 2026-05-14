@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/IT PROJECT 1.md",
+                "file": "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IT PROJECT 1"
+              "title": "GLCC Local Integrated Digital Ecosystem (GLIDE)"
             }
           }
         ],
@@ -283,6 +283,7 @@
   },
   "active": "f4e4ce57c1711630",
   "lastOpenFiles": [
+    "Research/IT PROJECT 1.md",
     "Personal/Quiet Time/Untitled.md",
     "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
     "Church Family/GLCC Tech To-Do List.md",
@@ -318,7 +319,6 @@
     "Tasks/S.P.A.R.K DVBS Workplan & Curriculum.md",
     "Tasks/DVBS Curriculum.md",
     "Tasks/Guy.md",
-    "Research/UNFAMILIAR WORDS.md",
     "Untitled.canvas"
   ]
 }

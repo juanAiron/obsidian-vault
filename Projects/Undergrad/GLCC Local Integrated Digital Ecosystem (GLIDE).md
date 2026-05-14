@@ -19,22 +19,33 @@
 ### Database
 	1. SQL or No SQL?
 	2. DB Technology
-
-### User Roles (CRUD)
-	1. Super Admin
-	2. Admin (STAFF)
-	3. Users
-		a. Pastors and Elders - Same Level of Permission
-		b. S.P.A.R.K
-		c. Praise & Worship
-		d. GUM
-		e. VOICE
+### Role-Based Access Control (RBAC)
+	User Roles
+	1. Super Admin (Dev) - Airon 
+	2. Admin (Admin Officer) - T. Gigz
+		a. STAFF
+		b. Ministry Heads
+		c. Zone Leaders
+		d. Pastors and Elders
+	3. Workers
+		a. 17 Ministries
 		
+	4. Members (For Deployment)
 
-
-
-How can we modify it in such a way that when we view the certain song in the song library we can also access the individual PPT file and be redirected to a new tab just to view that PPT File (If the song has a PPTX file uploaded)
-
-Example Scenario; I am currently in the Song Library Tab and I want to view the song, so I press the view button and we are now redirected /song/show.
-
-Instead of just a delete button can you add another button where we view the content of the PPT file, and after pressing that button we can view the PPT file in another tab maybe, just like when we open a PPTX file using browsers
+### Main Core Features
+	1. Information about the Ministries and Pastors and Elders, History Church, Events (Calendar), Services
+	
+	Reservations
+		1. Equipment - Tables, Chairs, Speakers, Mic, Instruments (Inventory) 
+		2. Rooms -  Galatians, Ephesians Open Hall, Colossians, AVR & Philippians
+		3. Vehicle - Black Van, Van ni kuya Hali
+	
+	Counseling
+		1. Marital
+		2. Parenting
+	
+	Calendary (Monthly Schedule)
+		Forms
+### Other Features
+	1. Library Management System (LMS)
+	2. Per Ministries (Dashboard) - Requirements Ellicitation
