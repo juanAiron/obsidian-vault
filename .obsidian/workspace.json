@@ -27,12 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
+=======
+                "file": "Tech/Git.md",
+>>>>>>> 9dd8534d40657d93e2754b42794f39570d35f96a
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "GLCC Local Integrated Digital Ecosystem (GLIDE)"
+=======
+              "title": "Git"
+>>>>>>> 9dd8534d40657d93e2754b42794f39570d35f96a
             }
           }
         ],
@@ -283,42 +291,50 @@
   },
   "active": "f4e4ce57c1711630",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "Church Family/Libon Line UP.md",
+    "Tech/Git.md",
+    "Church Family/P&W/GLCC Tech To-Do List.md",
+    "Church Family/SPARK.md",
+    "Tech/DOS Commands.md",
+    "Church Family/SPARK",
+    "Church Family/P&W",
+    "Church Family/Exhortations",
+    "Tech/Tech Stack.md",
+    "Tech/SSH Keys.md",
+    "Tech/Git.md",
+    "Tech/VS Code.md",
+    "Tech/Draw.io.md",
+>>>>>>> 9dd8534d40657d93e2754b42794f39570d35f96a
     "Research/IT PROJECT 1.md",
     "Personal/Quiet Time/Untitled.md",
     "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
-    "Church Family/GLCC Tech To-Do List.md",
     "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
     "Projects/Undergrad/Untitled",
     "Projects/Undergrad",
     "Projects",
     "SAM.md",
-    "Tech/VS Code.md",
-    "Tech/Tech Stack.md",
-    "Tech/SSH Keys.md",
-    "Tech/Draw.io.md",
-    "Tech/DOS Commands.md",
     "Book List.base",
     "Personal/Lyrics/Jesus I My Cross Have Taken.md",
     "Books/The pilgrim's progress - John Bunyan.md",
     "Books/The Gospel for Real Life - Jerry Bridges.md",
-    "Church Family/Libon Line UP.md",
-    "Church Family/SPARK.md",
     "Personal/Shepherd Conference/Shepherds Conference 2024 Music.md",
     "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
     "Church Family/Libon.md",
     "TaskNotes/Views/Progress.base",
     "Personal/Lyrics",
     "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/kanban-default.base",
     "2026-03-28.md",
     "Untitled 2.md",
-    "Personal/Shepherd Conference",
-    "Personal/Quiet Time/Untitled",
     "Tasks/Church Family/S.P.A.R.K. DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan.md",
     "Tasks/S.P.A.R.K DVBS Workplan & Curriculum.md",
+<<<<<<< HEAD
     "Tasks/DVBS Curriculum.md",
     "Tasks/Guy.md",
+=======
+>>>>>>> 9dd8534d40657d93e2754b42794f39570d35f96a
     "Untitled.canvas"
   ]
 }
