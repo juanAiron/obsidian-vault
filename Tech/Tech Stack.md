@@ -1,4 +1,47 @@
+### Linux
+##### Install SQL Server
+- lsb_release -rs
+##### 22.04 Microsoft repo install SQL Server
+1. Add Microsoft signing key
+	curl https://packages.microsoft.com/keys/microsoft.asc | sudo tee /etc/apt/trusted.gpg.d/microsoft.asc
 
+2. Add the SQL Server repo
+	sudo curl -o /etc/apt/sources.list.d/mssql-server.list \
+	https://packages.microsoft.com/config/ubuntu/22.04/mssql-server-2022.list
+
+3. Update and install
+	sudo apt-get update
+	sudo apt-get install -y mssql-server
+
+Edition: 2
+Password: 218redeemed!
+
+##### Add Microsoft Repository & Install
+Installation
+	wget http://archive.ubuntu.com/ubuntu/pool/main/o/openldap/libldap-2.5-0_2.5.20+dfsg-0ubuntu0.22.04.1_amd64.deb
+	
+	sudo dpkg -i libldap-2.5-0_2.5.20+dfsg-0ubuntu0.22.04.1_amd64.deb
+
+##### Start
+	sudo systemctl start mssql-server
+	systemctl status mssql-server
+
+##### Install sqlcmd
+Run these one at a time:
+###### Add Microsoft repo for tools
+sudo curl -o /etc/apt/sources.list.d/mssql-tools.list \
+  https://packages.microsoft.com/config/ubuntu/22.04/prod.list
+
+###### Update and install
+sudo apt-get update
+sudo apt-get install -y mssql-tools18 unixodbc-dev
+
+###### Add sqlcmd to your PATH permanently
+echo 'export PATH="$PATH:/opt/mssql-tools18/bin"' >> ~/.bashrc
+source ~/.bashrc
+
+##### Test Connection
+sqlcmd -S localhost -U SA -P 'YourPassword' -C
 ### AI & Automation
 
 ### Core Essentials

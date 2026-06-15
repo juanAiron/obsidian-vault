@@ -1,46 +1,34 @@
 {
   "main": {
-    "id": "96dc3571f5ef5fac",
+    "id": "aa2c0f6641089290",
     "type": "split",
     "children": [
       {
-        "id": "8a1bff5a6f24b959",
+        "id": "7b00cc52886aba92",
         "type": "tabs",
         "children": [
           {
-            "id": "7664dbdf0cff08e2",
+            "id": "143b71a42de08cbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAM"
+              "type": "tasknotes-pomodoro-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
             }
           },
           {
-            "id": "f4e4ce57c1711630",
+            "id": "d58d41fecadf8e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
-=======
-                "file": "Tech/Git.md",
->>>>>>> 9dd8534d40657d93e2754b42794f39570d35f96a
+                "file": "Tech/Tech Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "GLCC Local Integrated Digital Ecosystem (GLIDE)"
-=======
-              "title": "Git"
->>>>>>> 9dd8534d40657d93e2754b42794f39570d35f96a
+              "title": "Tech Stack"
             }
           }
         ],
@@ -50,16 +38,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e4d7109835058b3a",
+    "id": "8ca62c377147d0f4",
     "type": "split",
     "children": [
       {
-        "id": "c960ffc592db46b0",
+        "id": "5388eb6be88b21b9",
         "type": "tabs",
-        "dimension": 50.323415265200516,
         "children": [
           {
-            "id": "1a2a7d4f781755ea",
+            "id": "2ca9b029d587980b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "352a1b2a16c9ab75",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,20 +76,7 @@
             }
           },
           {
-            "id": "cebe5ee99bd97c91",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "d633f730ac7000d6",
+            "id": "fec90247a101c462",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,73 +84,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "8e834cd6f02580d0",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/Calendar.base",
-                "viewName": "Calendar"
-              },
-              "icon": "tasknotes-simple",
-              "title": "Calendar"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5fcb558c9d63e1d9",
-        "type": "tabs",
-        "dimension": 49.676584734799484,
-        "children": [
-          {
-            "id": "7f42696e441beedf",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "30d0448158425cf8",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "TaskNotes/Views/Progress.base",
-                "viewName": "Agenda"
-              },
-              "icon": "tasknotes-simple",
-              "title": "Progress"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 300
   },
   "right": {
-    "id": "7cf190c5029ef2b2",
+    "id": "e394248ebf7563db",
     "type": "split",
     "children": [
       {
-        "id": "2ba9d84df0a89c05",
+        "id": "0b8b6e43460cf86b",
         "type": "tabs",
-        "dimension": 46.7479674796748,
         "children": [
           {
-            "id": "42c6944a66278f76",
+            "id": "3f7dae8789f9283d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UNFAMILIAR WORDS.md",
+                "file": "Tech/SAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,25 +115,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UNFAMILIAR WORDS"
+              "title": "Backlinks for SAM"
             }
           },
           {
-            "id": "26a2adf4d1d297e2",
+            "id": "839c63b647dbd7e9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UNFAMILIAR WORDS.md",
+                "file": "Tech/SAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UNFAMILIAR WORDS"
+              "title": "Outgoing links from SAM"
             }
           },
           {
-            "id": "32f326b320bc3499",
+            "id": "c3c1241f6ba95cd6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -206,7 +148,7 @@
             }
           },
           {
-            "id": "b7ead914042b8c83",
+            "id": "d5ed9d137549e7cd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -220,63 +162,46 @@
             }
           },
           {
-            "id": "d2228e56c23bad52",
+            "id": "2207960a06cb8f9e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaskNotes/Views/Calendar.base",
+                "file": "Tech/SAM.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calendar"
+              "title": "Outline of SAM"
             }
           },
           {
-            "id": "073d90ac098bc804",
+            "id": "c4a0115c8e2271b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "f57ef7c9c9d46bff",
-        "type": "tabs",
-        "dimension": 53.2520325203252,
-        "children": [
-          {
-            "id": "95d7d3493fc09159",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-pomodoro-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Pomodoro"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "media-extended:Open external media": false,
       "tasknotes:Open mini calendar": false,
@@ -289,52 +214,21 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "f4e4ce57c1711630",
+  "active": "d58d41fecadf8e7c",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "Church Family/Libon Line UP.md",
-    "Tech/Git.md",
-    "Church Family/P&W/GLCC Tech To-Do List.md",
-    "Church Family/SPARK.md",
-    "Tech/DOS Commands.md",
-    "Church Family/SPARK",
-    "Church Family/P&W",
-    "Church Family/Exhortations",
-    "Tech/Tech Stack.md",
     "Tech/SSH Keys.md",
+    "Tech/SIA.md",
+    "Tech/SAM.md",
     "Tech/Git.md",
-    "Tech/VS Code.md",
     "Tech/Draw.io.md",
->>>>>>> 9dd8534d40657d93e2754b42794f39570d35f96a
-    "Research/IT PROJECT 1.md",
-    "Personal/Quiet Time/Untitled.md",
-    "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
-    "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
-    "Projects/Undergrad/Untitled",
-    "Projects/Undergrad",
-    "Projects",
-    "SAM.md",
-    "Book List.base",
-    "Personal/Lyrics/Jesus I My Cross Have Taken.md",
+    "Tech/DOS Commands.md",
+    "Tech/VS Code.md",
+    "Church Family/SPARK.md",
+    "Church Family/Libon Line UP.md",
+    "Church Family/P&W/GLCC Tech To-Do List.md",
     "Books/The pilgrim's progress - John Bunyan.md",
     "Books/The Gospel for Real Life - Jerry Bridges.md",
-    "Personal/Shepherd Conference/Shepherds Conference 2024 Music.md",
-    "Personal/Quiet Time/Sermons/The Gospel According to Jesus - John MacArthur/The Sovereignty of God in Salvation.md",
-    "Church Family/Libon.md",
-    "TaskNotes/Views/Progress.base",
-    "Personal/Lyrics",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "2026-03-28.md",
-    "Untitled 2.md",
-    "Tasks/Church Family/S.P.A.R.K. DVBS Workplan.md",
-    "Tasks/S.P.A.R.K DVBS Workplan.md",
-    "Tasks/S.P.A.R.K DVBS Workplan & Curriculum.md",
-<<<<<<< HEAD
-    "Tasks/DVBS Curriculum.md",
-    "Tasks/Guy.md",
-=======
->>>>>>> 9dd8534d40657d93e2754b42794f39570d35f96a
-    "Untitled.canvas"
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/mini-calendar-default.base"
   ]
 }
