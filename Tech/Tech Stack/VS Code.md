@@ -1,4 +1,3 @@
-
 # Setup
 #### Manual Configurations
 1. Auto Save

@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Books"
+    order:
+      - author
+      - title
+      - publishDate
+    image: note.coverUrl
+    cardSize: 200
+    imageFit: contain

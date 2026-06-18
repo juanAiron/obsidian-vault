@@ -1,4 +1,4 @@
-### Linux
+### 
 ##### Install SQL Server
 - lsb_release -rs
 ##### 22.04 Microsoft repo install SQL Server
@@ -26,7 +26,7 @@ Installation
 	sudo systemctl start mssql-server
 	systemctl status mssql-server
 
-##### Install sqlcmd
+##### Install sqlcmd 
 Run these one at a time:
 ###### Add Microsoft repo for tools
 sudo curl -o /etc/apt/sources.list.d/mssql-tools.list \

@@ -50,3 +50,9 @@ Located in the website root folder (e.g., C:\wamp64\www\mysite\.htaccess)
 6Protect wp-config.php: <Files wp-config.php> deny from all </Files>
 
 7AllowOverride All must be set in VirtualHost for .htaccess to work
+
+CONFIG
+DATABASE
+REPO
+
+Conflict Resolution

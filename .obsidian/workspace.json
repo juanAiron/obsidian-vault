@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7b00cc52886aba92",
+        "id": "62340ad17c7f61c8",
         "type": "tabs",
         "children": [
           {
-            "id": "143b71a42de08cbe",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-pomodoro-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-view"
-            }
-          },
-          {
-            "id": "d58d41fecadf8e7c",
+            "id": "a837ba90f97962c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Tech Stack.md",
+                "file": "Tech/Tech Stack/SSH Keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech Stack"
+              "title": "SSH Keys"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,6 +33,7 @@
       {
         "id": "5388eb6be88b21b9",
         "type": "tabs",
+        "dimension": 60.59701492537313,
         "children": [
           {
             "id": "2ca9b029d587980b",
@@ -64,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#probability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,10 +76,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "094ee8383337031e",
+        "type": "tabs",
+        "dimension": 39.40298507462686,
+        "children": [
+          {
+            "id": "3f69424a85dc1478",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "right": {
     "id": "e394248ebf7563db",
@@ -105,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/SAM.md",
+                "file": "Data Mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SAM"
+              "title": "Backlinks for Data Mining"
             }
           },
           {
@@ -124,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/SAM.md",
+                "file": "Data Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SAM"
+              "title": "Outgoing links from Data Mining"
             }
           },
           {
@@ -145,6 +152,16 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "01b2998950884d27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -167,34 +184,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/SAM.md",
+                "file": "Data Mining.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SAM"
+              "title": "Outline of Data Mining"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cc9487465991481b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c4a0115c8e2271b7",
+            "id": "143b71a42de08cbe",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "clock",
+              "title": "Pomodoro"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "tasknotes:Open mini calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -204,7 +228,6 @@
       "bases:Create new base": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "media-extended:Open external media": false,
-      "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
       "tasknotes:Open task list": false,
       "tasknotes:Open agenda": false,
@@ -214,21 +237,43 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "d58d41fecadf8e7c",
+  "active": "a837ba90f97962c7",
   "lastOpenFiles": [
-    "Tech/SSH Keys.md",
-    "Tech/SIA.md",
-    "Tech/SAM.md",
-    "Tech/Git.md",
-    "Tech/Draw.io.md",
-    "Tech/DOS Commands.md",
-    "Tech/VS Code.md",
-    "Church Family/SPARK.md",
-    "Church Family/Libon Line UP.md",
-    "Church Family/P&W/GLCC Tech To-Do List.md",
-    "Books/The pilgrim's progress - John Bunyan.md",
-    "Books/The Gospel for Real Life - Jerry Bridges.md",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/mini-calendar-default.base"
+    "Tech/Tech Stack/Git.md",
+    "Tech/Undergrad Topics/Data Science/Data Mining.md",
+    "Tech/Undergrad Topics/Data Science/Data Miners.md",
+    "Tech/Undergrad Topics/Data Science/Naive Bayes Additional Examples.md",
+    "Tech/Undergrad Topics/Data Science/Lec10 - Network Analysis.md",
+    "Tech/Undergrad Topics/Data Science/Lec09 - Sequential Pattern Mining.md",
+    "Tech/Undergrad Topics/Data Science/Lec08-Time_Series_Forecasting.md",
+    "Tech/Undergrad Topics/Data Science/Lec07-Sentiment_Analysis.md",
+    "Tech/Undergrad Topics/Data Science/Lec06-Topic_Modelling.md",
+    "Tech/Undergrad Topics/Data Science/Lec02-Feature_Selection.md",
+    "Tech/Undergrad Topics/Data Science/Lec05-Text_Analytics.md",
+    "Tech/Undergrad Topics/Data Science/Lec04-Similarity_Dissimilarity_Measures.md",
+    "Tech/Undergrad Topics/Data Science/Lec03-Clustering.md",
+    "Untitled.md",
+    "Tech/Undergrad Topics/Data Science/Data Analytics.md",
+    "Research/Types of Leadership.md",
+    "Tech/OS Specific/DOS Commands.md",
+    "Tech/OS Specific/Linux Ubuntu Experience.md",
+    "Tech/Generic Applications/Draw.io.md",
+    "Tech/OS Specific",
+    "Tech/Tech Stack/VS Code.md",
+    "Tech/Tech Stack/SSH Keys.md",
+    "Tech/Tech Stack",
+    "Book View.base",
+    "Tech/Undergrad Topics/Information Assurance & Security.md",
+    "Tech/Generic Applications",
+    "Tech/Undergrad Topics/Data Science",
+    "Tech/Undergrad Topics/SAM.md",
+    "Tech/Undergrad Topics",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "Research/UNFAMILIAR WORDS.md",
+    "Research/IT PROJECT 1.md",
+    "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/Progress.base"
   ]
 }
