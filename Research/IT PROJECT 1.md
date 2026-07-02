@@ -38,3 +38,18 @@ It hides the internal ports of your database/AI.
 
 RAG Pipeline
 yung Vector Database
+
+
+1. Frontend Foundataions
+2. API's and Backend  
+3. Database and Storage
+4. Auth and Permissions
+5. Hosting And Deployment
+6. Cloud and Compute
+7. CI/CD Version Control
+8. Security & Row Level Security
+9. Rate Limiting
+10. Caching and CDN
+11. Load Balancing and Scaling
+12. Error Tracking and Logs
+13. Availability and Recovery

@@ -1,0 +1,3 @@
+Please add the DAY OF THE WEEK when making Announcements for any ministry activity. We highly suggest the use of either of the following formats: 
+
+FORMAT 1: <date> (day of the week), <time> Example: PRAYER MORNING SPECIAL: June 13 (Saturday), 9AM-12PM —————— FORMAT 2: <day of the week>, <date>, <time> Example: PRAYER MORNING SPECIAL: Saturday, June 13, 9AM-12PM —————— **Format 2 is more appropriate when the activity falls on the same week that it’s announced. Remember to forward this to the people assigned to make announcements in your ministry. Thank you and God bless!
