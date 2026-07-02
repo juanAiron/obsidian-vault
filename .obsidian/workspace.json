@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Tech Stack/SSH Keys.md",
+                "file": "Research/IT PROJECT 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH Keys"
+              "title": "IT PROJECT 1"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "5388eb6be88b21b9",
         "type": "tabs",
-        "dimension": 60.59701492537313,
+        "dimension": 56.56565656565656,
         "children": [
           {
             "id": "2ca9b029d587980b",
@@ -78,18 +78,18 @@
         ]
       },
       {
-        "id": "094ee8383337031e",
+        "id": "3dff82d158397881",
         "type": "tabs",
-        "dimension": 39.40298507462686,
+        "dimension": 43.43434343434344,
         "children": [
           {
-            "id": "3f69424a85dc1478",
+            "id": "143b71a42de08cbe",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "clock",
+              "title": "Pomodoro"
             }
           }
         ]
@@ -201,13 +201,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "143b71a42de08cbe",
+            "id": "3f69424a85dc1478",
             "type": "leaf",
             "state": {
-              "type": "tasknotes-pomodoro-view",
+              "type": "calendar",
               "state": {},
-              "icon": "clock",
-              "title": "Pomodoro"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -239,7 +239,16 @@
   },
   "active": "a837ba90f97962c7",
   "lastOpenFiles": [
+    "Projects/Undergrad/Venipuncture Intelligent Skill Tracking and Assessment Tool (VISTA).md",
+    "Research/IT PROJECT 1.md",
+    "Book View.base",
+    "Personal/Lyrics/Jesus I My Cross Have Taken.md",
+    "Church Family/S.P.A.R.K. DVBS Workplan.md",
+    "Church Family/Libon Line UP.md",
+    "Books/The Gospel for Real Life - Jerry Bridges.md",
     "Tech/Tech Stack/Git.md",
+    "Untitled 1.md",
+    "Tech/Tech Stack/SSH Keys.md",
     "Tech/Undergrad Topics/Data Science/Data Mining.md",
     "Tech/Undergrad Topics/Data Science/Data Miners.md",
     "Tech/Undergrad Topics/Data Science/Naive Bayes Additional Examples.md",
@@ -257,21 +266,12 @@
     "Research/Types of Leadership.md",
     "Tech/OS Specific/DOS Commands.md",
     "Tech/OS Specific/Linux Ubuntu Experience.md",
-    "Tech/Generic Applications/Draw.io.md",
     "Tech/OS Specific",
-    "Tech/Tech Stack/VS Code.md",
-    "Tech/Tech Stack/SSH Keys.md",
     "Tech/Tech Stack",
-    "Book View.base",
-    "Tech/Undergrad Topics/Information Assurance & Security.md",
     "Tech/Generic Applications",
     "Tech/Undergrad Topics/Data Science",
-    "Tech/Undergrad Topics/SAM.md",
     "Tech/Undergrad Topics",
     "TaskNotes/Views/mini-calendar-default.base",
-    "Research/UNFAMILIAR WORDS.md",
-    "Research/IT PROJECT 1.md",
-    "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/Progress.base"
