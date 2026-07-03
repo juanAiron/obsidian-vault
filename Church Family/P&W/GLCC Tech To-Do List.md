@@ -21,10 +21,3 @@
     - I usually sipra it if I can, if not I usually ask kuya Josh's help
 
 	7. Check Youtube Channel
-   
-	PPT Manager - File Management System
-	8. Libre Office
-	9. Composer
-	10. PDFtoppm
-	11. Link Excel File to Existing Sytem
-	   

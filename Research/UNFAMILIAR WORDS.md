@@ -15,7 +15,7 @@
 
 *God’s greatness, authority, and holiness cannot be challenged or diminished.*
 
-Petulance - means God’s wrath is not immature or emotional, like a human getting upset over small things. Instead, His wrath is holy, just, and necessary because sin offends His perfect justice.
+**Petulance** - *means God’s wrath is not immature or emotional, like a human getting upset over small things. Instead, His wrath is holy, just, and necessary because sin offends His perfect justice.*
 
 Unmitigated - means absolute, total, or not reduced in intensity. It describes something severe, extreme, or complete without any relief or exception.
 

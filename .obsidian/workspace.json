@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62340ad17c7f61c8",
+        "id": "749851f84094474a",
         "type": "tabs",
         "children": [
           {
-            "id": "a837ba90f97962c7",
+            "id": "b2dc3cf679d49a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "IT PROJECT 1"
             }
+          },
+          {
+            "id": "774816e524247c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Agentic AI with Python (Udemy Course).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agentic AI with Python (Udemy Course)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,7 +48,7 @@
       {
         "id": "5388eb6be88b21b9",
         "type": "tabs",
-        "dimension": 56.56565656565656,
+        "dimension": 59.555106167846304,
         "children": [
           {
             "id": "2ca9b029d587980b",
@@ -80,7 +95,7 @@
       {
         "id": "3dff82d158397881",
         "type": "tabs",
-        "dimension": 43.43434343434344,
+        "dimension": 40.44489383215369,
         "children": [
           {
             "id": "143b71a42de08cbe",
@@ -105,6 +120,7 @@
       {
         "id": "0b8b6e43460cf86b",
         "type": "tabs",
+        "dimension": 61.531007751937985,
         "children": [
           {
             "id": "3f7dae8789f9283d",
@@ -199,6 +215,7 @@
       {
         "id": "cc9487465991481b",
         "type": "tabs",
+        "dimension": 38.468992248062015,
         "children": [
           {
             "id": "3f69424a85dc1478",
@@ -214,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,35 +254,36 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "a837ba90f97962c7",
+  "active": "774816e524247c6f",
   "lastOpenFiles": [
+    "Work Log.md",
+    "Research/Agentic AI with Python (Udemy Course).md",
+    "Research/CODING.md",
+    "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
+    "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
     "Projects/Undergrad/Venipuncture Intelligent Skill Tracking and Assessment Tool (VISTA).md",
+    "Projects/Undergrad/(VISTA) IT Project 2 Work Log.md",
+    "Projects/Undergrad/Work Log.md",
     "Research/IT PROJECT 1.md",
+    "Research/UNFAMILIAR WORDS.md",
+    "Tech/Undergrad Topics/Data Science/Data Mining (Lab).md",
+    "Tech/Undergrad Topics/Data Science/Data Scientist Toolbox.md",
     "Book View.base",
-    "Personal/Lyrics/Jesus I My Cross Have Taken.md",
-    "Church Family/S.P.A.R.K. DVBS Workplan.md",
-    "Church Family/Libon Line UP.md",
-    "Books/The Gospel for Real Life - Jerry Bridges.md",
-    "Tech/Tech Stack/Git.md",
+    "Untitled.md",
     "Untitled 1.md",
-    "Tech/Tech Stack/SSH Keys.md",
+    "Tech/Undergrad Topics/Information Assurance & Security.md",
+    "Tech/Undergrad Topics/SAM.md",
     "Tech/Undergrad Topics/Data Science/Data Mining.md",
     "Tech/Undergrad Topics/Data Science/Data Miners.md",
-    "Tech/Undergrad Topics/Data Science/Naive Bayes Additional Examples.md",
-    "Tech/Undergrad Topics/Data Science/Lec10 - Network Analysis.md",
-    "Tech/Undergrad Topics/Data Science/Lec09 - Sequential Pattern Mining.md",
-    "Tech/Undergrad Topics/Data Science/Lec08-Time_Series_Forecasting.md",
-    "Tech/Undergrad Topics/Data Science/Lec07-Sentiment_Analysis.md",
-    "Tech/Undergrad Topics/Data Science/Lec06-Topic_Modelling.md",
-    "Tech/Undergrad Topics/Data Science/Lec02-Feature_Selection.md",
-    "Tech/Undergrad Topics/Data Science/Lec05-Text_Analytics.md",
-    "Tech/Undergrad Topics/Data Science/Lec04-Similarity_Dissimilarity_Measures.md",
-    "Tech/Undergrad Topics/Data Science/Lec03-Clustering.md",
-    "Untitled.md",
-    "Tech/Undergrad Topics/Data Science/Data Analytics.md",
+    "Tech/Undergrad Topics/Data Science/Data Miners (Lec).md",
+    "Church Family/P&W/GLCC Tech To-Do List.md",
+    "Church Family/Announcements Guidelines.md",
     "Research/Types of Leadership.md",
-    "Tech/OS Specific/DOS Commands.md",
-    "Tech/OS Specific/Linux Ubuntu Experience.md",
+    "Tech/Undergrad Topics/Data Science/Data Analytics.md",
+    "Tech/OS Specific/Linux Fedora Experience.md",
+    "Tech/Encryption/KeyPass XC DB.md",
+    "Tech/Encryption",
+    "Church Family/S.P.A.R.K..md",
     "Tech/OS Specific",
     "Tech/Tech Stack",
     "Tech/Generic Applications",
@@ -273,7 +291,6 @@
     "Tech/Undergrad Topics",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/Progress.base"
+    "TaskNotes/Views/relationships.base"
   ]
 }

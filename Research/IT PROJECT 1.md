@@ -39,7 +39,6 @@ It hides the internal ports of your database/AI.
 RAG Pipeline
 yung Vector Database
 
-
 1. Frontend Foundataions
 2. API's and Backend  
 3. Database and Storage
@@ -53,3 +52,9 @@ yung Vector Database
 11. Load Balancing and Scaling
 12. Error Tracking and Logs
 13. Availability and Recovery
+
+
+Virtual Environments for Windows
+Terminal
+1. Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+2. .\.venv\Scripts\Activate.ps1  
