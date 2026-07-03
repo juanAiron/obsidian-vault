@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Agentic AI with Python (Udemy Course).md",
+                "file": "Tech/Tech Stack/VS Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentic AI with Python (Udemy Course)"
+              "title": "VS Code"
             }
           }
         ],
@@ -231,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,8 +256,8 @@
   },
   "active": "774816e524247c6f",
   "lastOpenFiles": [
-    "Work Log.md",
     "Research/Agentic AI with Python (Udemy Course).md",
+    "Work Log.md",
     "Research/CODING.md",
     "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
     "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
