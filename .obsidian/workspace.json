@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Agentic AI with Python (Udemy Course).md",
+                "file": "Tech/General Workspaces/Google Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agentic AI with Python (Udemy Course)"
+              "title": "Google Forms"
             }
           }
         ],
@@ -254,10 +254,13 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "774816e524247c6f",
+  "active": "2ca9b029d587980b",
   "lastOpenFiles": [
-    "Tech/Tech Stack/VS Code.md",
+    "Tech/General Workspaces/Draw.io.md",
+    "Tech/General Workspaces/Google Forms.md",
     "Research/Agentic AI with Python (Udemy Course).md",
+    "Tech/General Workspaces",
+    "Tech/Tech Stack/VS Code.md",
     "Work Log.md",
     "Research/CODING.md",
     "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
@@ -281,8 +284,6 @@
     "Church Family/Announcements Guidelines.md",
     "Research/Types of Leadership.md",
     "Tech/Undergrad Topics/Data Science/Data Analytics.md",
-    "Tech/OS Specific/Linux Fedora Experience.md",
-    "Tech/Encryption/KeyPass XC DB.md",
     "Tech/Encryption",
     "Tech/OS Specific",
     "Tech/Tech Stack",
@@ -290,7 +291,6 @@
     "Tech/Undergrad Topics/Data Science",
     "Tech/Undergrad Topics",
     "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/relationships.base"
+    "TaskNotes/Views/tasks-default.base"
   ]
 }
