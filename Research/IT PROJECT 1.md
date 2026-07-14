@@ -8,8 +8,6 @@ ETS & Syringe
 
 Data flow - Diagram
 
-
-
 **Questions to be asked**
 1. Needs ng Proponent
 	1. detailed needs - automate feedback
@@ -52,7 +50,6 @@ yung Vector Database
 11. Load Balancing and Scaling
 12. Error Tracking and Logs
 13. Availability and Recovery
-
 
 Virtual Environments for Windows
 Terminal

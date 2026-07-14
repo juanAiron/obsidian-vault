@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/IT PROJECT 1.md",
+                "file": "Tech/Tech Stack/VS Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IT PROJECT 1"
+              "title": "VS Code"
             }
           },
           {
-            "id": "774816e524247c6f",
+            "id": "74c3b44a11c4fedd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/General Workspaces/Google Forms.md",
+                "file": "Tech/Encryption/KeyPass XC DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Forms"
+              "title": "KeyPass XC DB"
             }
           }
         ],
@@ -120,7 +120,7 @@
       {
         "id": "0b8b6e43460cf86b",
         "type": "tabs",
-        "dimension": 61.531007751937985,
+        "dimension": 56.48854961832062,
         "children": [
           {
             "id": "3f7dae8789f9283d",
@@ -215,7 +215,7 @@
       {
         "id": "cc9487465991481b",
         "type": "tabs",
-        "dimension": 38.468992248062015,
+        "dimension": 43.51145038167939,
         "children": [
           {
             "id": "3f69424a85dc1478",
@@ -254,43 +254,42 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "2ca9b029d587980b",
+  "active": "74c3b44a11c4fedd",
   "lastOpenFiles": [
-    "Tech/General Workspaces/Draw.io.md",
-    "Tech/General Workspaces/Google Forms.md",
-    "Research/Agentic AI with Python (Udemy Course).md",
-    "Tech/General Workspaces",
-    "Tech/Tech Stack/VS Code.md",
-    "Work Log.md",
-    "Research/CODING.md",
-    "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
-    "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
-    "Projects/Undergrad/Venipuncture Intelligent Skill Tracking and Assessment Tool (VISTA).md",
-    "Projects/Undergrad/(VISTA) IT Project 2 Work Log.md",
-    "Projects/Undergrad/Work Log.md",
-    "Research/IT PROJECT 1.md",
-    "Research/UNFAMILIAR WORDS.md",
-    "Tech/Undergrad Topics/Data Science/Data Mining (Lab).md",
-    "Tech/Undergrad Topics/Data Science/Data Scientist Toolbox.md",
     "Book View.base",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Tech/Undergrad Topics/Information Assurance & Security.md",
-    "Tech/Undergrad Topics/SAM.md",
-    "Tech/Undergrad Topics/Data Science/Data Mining.md",
-    "Tech/Undergrad Topics/Data Science/Data Miners.md",
-    "Tech/Undergrad Topics/Data Science/Data Miners (Lec).md",
-    "Church Family/P&W/GLCC Tech To-Do List.md",
-    "Church Family/Announcements Guidelines.md",
+    "Claude.md",
+    "Tech/Tech Stack/VS Code.md",
+    "Research/Agentic AI with Python (Udemy Course).md",
+    "Tech/Tech Stack/SSH Keys.md",
+    "Tech/Tech Stack/Git.md",
+    "Tech/OS Specific/DOS Commands.md",
+    "Tech/OS Specific/Linux Ubuntu Experience.md",
+    "Tech/OS Specific/Linux Fedora Experience.md",
+    "Tech/General Workspaces/Google Forms.md",
+    "Tech/General Workspaces/Draw.io.md",
+    "Tech/Encryption/KeyPass XC DB.md",
+    "TaskNotes/Views/agenda-default.base",
+    "Research/UNFAMILIAR WORDS.md",
     "Research/Types of Leadership.md",
-    "Tech/Undergrad Topics/Data Science/Data Analytics.md",
+    "Research/IT PROJECT 1.md",
+    "Research/CODING.md",
+    "Projects/Undergrad/Venipuncture Intelligent Skill Tracking and Assessment Tool (VISTA).md",
+    "Projects/Undergrad/Laboratory Custodian Services & Resource Management System.md",
+    "Projects/Undergrad/GLCC Local Integrated Digital Ecosystem (GLIDE).md",
+    "Projects/Undergrad/(VISTA) IT Project 2 Work Log.md",
+    "Personal/Lyrics/Jesus I My Cross Have Taken.md",
+    "Church Family/P&W/GLCC Tech To-Do List.md",
+    "Church Family/S.P.A.R.K. DVBS Workplan.md",
+    "Church Family/S.P.A.R.K..md",
+    "Church Family/Parent Teacher Fellowship (PTF).md",
+    "Church Family/Announcements Guidelines.md",
+    "Tech/General Workspaces",
     "Tech/Encryption",
     "Tech/OS Specific",
     "Tech/Tech Stack",
     "Tech/Generic Applications",
     "Tech/Undergrad Topics/Data Science",
     "Tech/Undergrad Topics",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views/tasks-default.base"
+    "TaskNotes/Views/mini-calendar-default.base"
   ]
 }

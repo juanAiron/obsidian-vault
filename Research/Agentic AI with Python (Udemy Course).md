@@ -25,7 +25,8 @@ Tick off each module as you finish it — this doubles as your course map.
 	- [x] Immutable Objects (Numbers, Strings, Tuples)
 	- [x] Mutable Objects (Lists, Sets, Dictionaries)
 	- [x] Advanced Data Types (datetime, collections)
-- [ ] *(add next module here as you go)*
+- [x] *Conditionals*
+	- [ ] ~~Project-Based~~
 
 ---
 
@@ -71,10 +72,13 @@ Mapping the chai analogy onto OOP concepts — a running glossary you can extend
 >     def __init__(self, color, sweetness):
 >         self.color = color
 >         self.sweetness = sweetness
+> 	    # Its primary job is to set up the initial state of the object by
+> 	    # assigning values to its specific attributes
 >
 >     def stir(self):
 >         print("Stirring the chai...")
 > ```
+
 
 ### Why Use Python?
 - [x] Easy to learn
@@ -230,29 +234,8 @@ later = now + timedelta(days=1)
 > Yes, No Routes
 > 
 
----
-	Create a Notification System for a smart Kettle
 
-		```
-			kettle_boiled = True
-
-			if kettle_boiled:
-				print("Kettle Done! Time to make Chai")
-		```
----
-	Create snack notification system
-		```
-			snack = input("Enter your preffered snack: ").lower()
-
-			print(f"User said {snack}")
-
-			if snack == "cookies" or snack == "samosa":
-		    print(f"Great Choice")
-				else:
-		    print(f"Sorry this is unavailable")
-		```
-
-## 📎 Glossary (running list — add new terms as they appear)
+## Glossary (running list — add new terms as they appear)
 | Term | Definition |
 |---|---|
 | Class | Blueprint for creating objects |
@@ -267,5 +250,5 @@ later = now + timedelta(days=1)
 | Frozenset | Immutable version of a set |
 | Membership Testing | Checking if a value exists in a collection, using `in` |
 
-## 🔗 Related Notesx`
+##  Related Notesx`
 - [[Persnal Work Log]]
